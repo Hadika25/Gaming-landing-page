@@ -266,3 +266,52 @@ width: 50%;
    
 }
 /** online game video styles ends here **/
+
+.play-instantly {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+
+.play-text {
+    width: 50%;
+}
+
+.play-text h2 {
+    color: #0B0223;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 200px;
+}
+
+.play-text p {
+    color: #534C64;
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+.play-img {
+    width: 50%;
+}
+
+
+.img1 {
+    margin-right: 100px;
+    height: 580px;
+    width: 530px;
+}
+
+.img2 {
+    position: relative;
+    bottom: 200px;
+    right: 100px;
+    height: 300px;
+    width: 280px;
+}
+/** play game styles ends here **/
